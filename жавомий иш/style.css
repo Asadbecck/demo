@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+
+    background-color: #1D0F35;
+    background: url(./img/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-item .nav-link {
+    display: flex;
+    color: #dddde5;
+
+}
+
+.btn8 {
+    width: 236px;
+    height: 49px;
+    padding-top: 40px;
+    color:#129169;
+    border-radius: 30%;
+    font-size: 18px;
+}
+
+.head_menu{
+    font-size: 30px;
+    color: #dddde5;
+}
+.head_menu2{
+    font-size: 30px;
+    color: #dddde5;
+}
+
+.nav-item {
+    margin-top: 40px;
+}
+
+.secti{
+    margin-top: 30px;  
+    margin-left: 20px;
+    margin-right: 50px;  
+}
+
+.nav{
+    margin-top: 30px;  
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.soli{
+    display: flex;
+    align-items: center;
+}
+
+
+.soli .c{
+    font-size: 17px;
+    color: #dddde5;
+    margin-left: 100px;
+}
+/* .btn9{
+    padding-right: 10px;
+    background: ;
+} */
+
+.next {
+    width: 60px;
+    border: 0.5px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.prev {
+    width: 60px;
+    border: 0.5px solid #FFFFFF;
+    border-radius: 20px;
+}
+
+.card {
+    margin: 30px 30px;
+    width: 255px;
+    height: 430px;
+    background: radial-gradient(2464.13% 850.69% at 100% 6.65%, #BB82DB 0%, #636DC1 19.3%, #1D0F35 100%);
+    border-radius: 13px;
+}
+
+.card-img-top {
+    padding: 19px 19px 19px 19px;
+    /* height: 115px;
+    width: 105px;
+    border-radius: 40px; */
+}
+
+
+
+.card-title {
+    padding-top: 2px;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card-text {
+    padding-top: 58px;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.btn7 {
+    width: 188px;
+    height: 47px;
+    padding: 20px 46px;
+    border-radius: 50%;
+    border-color: #FFFFFF;
+}
+
+.btn-primary a {
+    background: #FFFFFF;
+}
+
+
+.head_menu {
+    margin-top: 30;
+}
+
+.sect1-SORT {
+    font-size: 14px;
+    color: #a30a0a;
+}

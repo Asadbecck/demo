@@ -1,0 +1,305 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background: #E5E5E5;
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    margin: 105px 105px 0 105px;
+    background-color: #d0d0dd;
+}
+
+.nav-item {
+    margin-top: 20px;
+}
+
+.nav-item .nav-link {
+    display: flex;
+}
+
+
+.photo {
+    margin-right: 20%;
+    position: relative;
+    width: 540px;
+    height: 638px;
+    margin: 66px 0 0 65px;
+    background: #1E1E37;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+.photos {
+    padding: 20px 0 40px 40px;
+    position: absolute;
+    display: flex;
+
+}
+
+
+.photo1 {
+    display: flex;
+    width: 456px;
+    height: 460px;
+    padding-top: 24px;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin: auto;
+}
+
+.mini-photo {
+    margin-left: 9px;
+    padding: 6px;
+    width: 106px;
+    height: 106px;
+    border-radius: 10px;
+}
+
+
+.run {
+    margin-top: 90px;
+    margin-right: 56%;
+    text-align: start;
+}
+
+.header_heading {
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.header_info {
+    padding-top: 16px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.heading_info2 {
+    margin-top: 32px;
+    padding-top: 30px;
+    font-size: 15px;
+    color: #faf8f8e2;
+}
+
+.heading_info3 {
+    margin-top: 44px;
+    padding-right: 40px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.heading_btn {
+    width: 348px;
+    height: 50px;
+    background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
+    border-radius: 50px;
+    margin-top: 30px;
+    padding: 7px 40px 18px 60px;
+    font-size: 19px;
+    color: #FFFFFF;
+
+}
+
+.mini_info {
+    margin-top: 44px;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.mini_info2 {
+
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.details {
+    width: 1110px;
+    height: 342px;
+    padding-top: 90px;
+    margin: auto;
+}
+
+.detail {
+    padding: 24px 0 20px 40px;
+    font-size: 18px;
+    color: white;
+}
+
+
+.jewels {
+    padding: 0 40px 0 40px;
+    font-size: 14px;
+    color: #171515;
+}
+
+.how::after {
+    content: "";
+    display: block;
+    width: 92.5%;
+    height: 2px;
+    margin-top: 12px;
+    background: white;
+    margin: auto;
+}
+
+.mini_logos {
+    position: relative;
+    margin-top: 44px;
+    padding-left: 39px;
+}
+
+.coll {
+    position: absolute;
+    margin-top: -1px;
+
+}
+
+.Col {
+
+    padding-left: 70px;
+}
+
+.x {
+    position: absolute;
+    padding-left: 70px;
+    margin-bottom: -100px;
+}
+
+
+.mini_logo {
+    margin-top: 40px;
+}
+
+.mini_logo2 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -190px;
+}
+
+.mini_logo3 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -74px;
+}
+
+.section1 {
+    margin-top: 70px;
+    background: #8a8a8f;
+
+}
+
+.section-heading {
+    padding-top: 160px;
+}
+
+.card {
+
+    width: 255px;
+    height: 520px;
+    background: radial-gradient(2464.13% 850.69% at 100% 6.65%, #BB82DB 0%, #636DC1 19.3%, #1D0F35 100%);
+    border-radius: 10px;
+    margin-top: 70px;
+}
+
+.card-img-top {
+    padding: 19px 19px 19px 19px;
+
+}
+
+
+
+.card-title {
+    padding-top: 8px;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card-text {
+    padding-left: 70px;
+    padding-top: 50px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.btn1 {
+    padding-left: 40px;
+    width: 188px;
+    height: 47px;
+    padding: 10px 46px;
+    border-radius: 30px;
+    border-color: #FFFFFF;
+}
+
+.section2 {
+    background: #09010D;
+}
+
+
+.connect {
+    display: flex;
+    justify-content: start;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #f5eded;
+}
+
+.connect::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 80%;
+    background: #1D0F35;
+    margin: auto;
+}
+
+
+.enter {
+    margin-top: 58px;
+    font-size: 18px;
+    color: #f7f3f3;
+}
+
+.sup {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: start;
+    margin-top: 20px;
+}
+.mili{
+    position: relative;
+    display: flex;
+}
+
+
+.your_email {
+    width: 440px;
+    height: 48px;
+    border: 0.5px solid #D0D0D0;
+    padding-right: 320px;
+    border-radius: 48px;
+    color: white;
+    background: #09010D;
+}
+
+.nu_ok {
+    padding: 12px 22px 12px 22px;
+    position: absolute;
+    background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
+    border-radius: 48px;
+    margin-left: 340px;
+    padding-right: 29px;
+}
+
+.foot {
+    margin-top: 60px;
+}
